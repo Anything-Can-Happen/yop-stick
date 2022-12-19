@@ -1,5 +1,5 @@
 # yop-stick
-This is for someone named "yop stick"
+This is for someone named "yop stick" - fell free to use it though if you want. It contains files to change weapon damage values
 
 # Editing weapons.meta file
 
